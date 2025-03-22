@@ -26,7 +26,9 @@ The dashboard tracks and visualizes the following key metrics:
 
 
 🛠️ Technologies Used
+
 SQL Server & SSMS: Data processing, transformation, and querying.(version 19.0 or above)
+
 Excel: Data visualization and dashboard creation.(version 2021)
 
 
@@ -34,16 +36,20 @@ Excel: Data visualization and dashboard creation.(version 2021)
 ![Dashboard](https://github.com/user-attachments/assets/2bdd63da-eb8e-402e-b77e-fad9f3ad7c9e)
 
 
-🎥 Interactive Walkthrough
-Watch the Demo
+🎥 For Interactive Walkthrough-
+Watch the Demo uploaded.
 
 
 🚀 How to Use
+
 -Setup SQL Server and load the dataset.
+
 -Execute SQL queries to transform and clean the data.
+
 -Export the results to Excel and create the dashboard.
+
 -Analyze the sales trends using visual insights.
 
-📎 Dataset Source
+📎 Dataset Source : 
 The dataset,SQL Queries and Excel sheet is provided in the repository.
 
